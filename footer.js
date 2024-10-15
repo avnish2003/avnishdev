@@ -35,6 +35,7 @@ const footerHTML = `
         <div class="f-mail">
           <input type="email" placeholder="Your Email" />
           <i class="bx bx-envelope"></i>
+          <button class="custom-button">Submit</button>
         </div>
         <hr />
       </div>
